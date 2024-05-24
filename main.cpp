@@ -80,5 +80,7 @@ int main()
 	th_giza.join();
 	th_doc.join();
 
+	// Random comment
+
 	return 0;
 }
